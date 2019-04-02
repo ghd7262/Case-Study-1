@@ -1,2 +1,2 @@
 ## Case Study 1
-### Maternal Smoking
+### Effect of Maternal Smoking on infant birthweights
